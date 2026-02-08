@@ -9,9 +9,9 @@ interface Props {
 }
 
 const classData = {
-  X: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L'],
-  XI: ['A1', 'A2', 'A3', 'A4', 'A5', 'B1', 'B2', 'C1', 'C2', 'D1', 'D2', 'E', 'F'],
-  XII: ['MIPA1', 'MIPA2', 'MIPA3', 'MIPA4', 'MIPA5', 'MIPA6', 'MIPA7', 'MIPA8', 'MIPA9', 'MIPS1', 'MIPS2', 'MIPS3']
+  X: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'],
+  XI: ['A1', 'A2', 'A3', 'B1', 'B2', 'C1', 'C2', 'C3', 'D', 'E1', 'E2', 'F'],
+  XII: ['A1', 'A2', 'A3', 'A4', 'A5', 'B1', 'B2', 'C1', 'C2', 'D1', 'D2', 'E', 'F']
 };
 
 const ClassSelection: React.FC<Props> = ({ grade, onSelect, onBack }) => {
