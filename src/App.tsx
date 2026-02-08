@@ -144,14 +144,14 @@ function App() {
         {/* Footer */}
         <footer className="fixed bottom-0 left-0 right-0 bg-[#F6E7E4] py-2 px-4">
           <div className="container mx-auto flex justify-between items-center">
-            <span className="text-[#E56D6C]">© Lantern of Love and Appreciation 2025</span>
+            <span className="text-[#E56D6C]">© Lantern of Love and Appreciation 2026</span>
             <a 
               href="https://byjames.my.id"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#E56D6C] hover:text-[#E56D6C]/80 transition-colors"
             >
-              Created by @jamesaja2
+              Created byJames
             </a>
           </div>
         </footer>
